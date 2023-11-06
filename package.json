@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "name": "class_examen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/typescript": "^2.0.0"
+  }
+}
